@@ -46,6 +46,7 @@ const Projects = () => {
           </div>
         ))}
       </div>
+      <hr className="full-line mt-10" />
     </div>
   );
 };
