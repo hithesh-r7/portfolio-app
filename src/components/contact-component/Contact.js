@@ -14,13 +14,13 @@ const Contact = () => {
         <a href="mailto:lolzop9@gmail.com" className="btn-primary">
           <FaEnvelope /> Get in Touch
         </a>
-        <a href="/resume.pdf" download className="btn-secondary">
+        <a href="Hithesh_R.pdf" download className="btn-secondary">
           <FaFileAlt /> View Resume
         </a>
       </div>
       <div className="social-icons">
-        <a href="https://github.com/yourprofile" target="_blank" rel="noopener noreferrer"><FaGithub /></a>
-        <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer"><FaLinkedin /></a>
+        <a href="https://github.com/hithesh-r7" target="_blank" rel="noopener noreferrer"><FaGithub /></a>
+        <a href="https://www.linkedin.com/in/hithesh-r-871548247/" target="_blank" rel="noopener noreferrer"><FaLinkedin /></a>
       </div>
     </div>
   );

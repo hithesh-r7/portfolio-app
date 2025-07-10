@@ -3,8 +3,8 @@ import "./Skills.css";
 
 const skills = [
   "JavaScript", "TypeScript", "React",
-  "Node.js", "Next.js", "TailwindCSS",
-  "PostgreSQL", "GraphQL", "Git"
+  "Angular", "C#", "TailwindCSS",
+  "SQLServer", "GraphQL", "Git"
 ];
 
 const Skills = () => {
